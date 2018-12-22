@@ -1,0 +1,27 @@
+{
+  "name": "chinese-number-parser",
+  "version": "0.0.1",
+  "description": "Parses Chinese numbers to Javascript native numerals",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhf/chinese-number-parser.git"
+  },
+  "keywords": [
+    "chinese",
+    "numeral",
+    "parse",
+    "中文",
+    "汉语",
+    "数字"
+  ],
+  "author": "zhf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhf/chinese-number-parser/issues"
+  },
+  "homepage": "https://github.com/zhf/chinese-number-parser#readme"
+}
